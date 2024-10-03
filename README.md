@@ -36,7 +36,7 @@
 
 A project built to reduce the time it takes to manually type a password, and allows users to use complex passwords without the worry about forgetting it.
 
-This was an university project that helped me learn the basics of Arduino and C.
+This was a university project that helped me learn the basics of Arduino and C.
 
 <p align="center">
     <a href="https://github.com/SVijayB/Lock_Unlock_A_Computer_Using_RFID"><img src="assets/Logo2.PNG" alt="Logo2" border="0"></a>
